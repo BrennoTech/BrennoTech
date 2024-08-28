@@ -2,9 +2,9 @@
 
 Meu nome é Brenno Ribeiro Maia Neves Oliveira
 
-Estou estudando na (Alura) (https://alura.com.br)
+Estou estudando na Alura (https://alura.com.br)
 
-Estou desenvolvendo estudos de tecnologia
+Estou desenvolvendo estudos de tecnologia.
 
 
 ### Você pode entrar em contato comigo 📫
