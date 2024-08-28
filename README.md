@@ -11,4 +11,4 @@ Estou desenvolvendo estudos de tecnologia
 
 00001087725008SP@al.educacao.sp.gov.br
 
-! () ![image](https://github.com/user-attachments/assets/4d9c0b4d-6ef0-4783-b771-98caa9acdc11)
+ ![image](https://github.com/user-attachments/assets/4d9c0b4d-6ef0-4783-b771-98caa9acdc11)
